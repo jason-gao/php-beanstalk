@@ -1,5 +1,5 @@
 {
-    "name": "codecrafting/php-beanstalk",
+    "name": "jason-gao/php-beanstalk",
     "type": "library",
     "description": "PHP 5.5+ beanstalkd client",
     "keywords": [ "beanstalkd", "queues", "message queue", "queueing" ],
